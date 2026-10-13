@@ -116,7 +116,7 @@ $$\mathcal{L}_{\text{total}} = \alpha \mathcal{L}_{\text{sentiment}} + \beta \ma
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/luna.git
+git clone https://github.com/HarihsS8/luna.git
 cd luna
 
 # Install Python dependencies
