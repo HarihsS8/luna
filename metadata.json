@@ -1,0 +1,6 @@
+{
+  "name": "LUNA: BERT-like Transformer Lab",
+  "description": "LUNA (Language Understanding Neural Attention): A BERT-like bidirectional transformer for multi-task sentiment classification and toxic comment detection with live attention inspection, token saliency, architecture deep dive, and complete PyTorch Python source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
